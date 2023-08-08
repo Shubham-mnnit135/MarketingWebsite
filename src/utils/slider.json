@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Joshi Palace",
+    "price": "4700000",
+    "detail": "Joshi colony jashpur uttarakhand",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Chauhan palace",
+    "price": "6600000",
+    "detail": "Dhampur Bijnor",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Rawat Palace",
+    "price": "3800000",
+    "detail": "kashipur uttarakhand",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Gandhi palace",
+    "price": "4700000",
+    "detail": "Kankhal Haridwar",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Rana palace ",
+    "price": "5000000",
+    "detail": "Kankhal Haridwar",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Golden palace",
+    "price": "3500000",
+    "detail": "Civil line Prayagraj",
+    "image": "./r3.png"
+  }
+]
